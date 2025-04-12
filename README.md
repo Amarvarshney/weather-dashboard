@@ -6,8 +6,8 @@ A full-stack web app built with the MERN stack (MongoDB, Express.js, React, Node
 
 ## 🔗 Live Demo
 
-- **Frontend** (React) ➡️ [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
-- **Backend** (Express) ➡️ [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend** (React) ➡️ [https://your-frontend.vercel.app](https://weather-dashboard-one-flame.vercel.app/)  
+- **Backend** (Express) ➡️ [https://your-backend.onrender.com](https://weather-dashboard-lood.onrender.com)
 
 ---
 
